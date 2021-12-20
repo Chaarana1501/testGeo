@@ -10,7 +10,7 @@ import {environment} from '../environments/environment';
 import {MatFormFieldModule} from '@angular/material/form-field';
 
 const googleMapsParams = {
-  apiKey: environment.GOOGLE_MAPS_API_KEY,
+  apiKey: 'ere',
   libraries: ['places'],
   language: 'en',
   // region: 'DE'
